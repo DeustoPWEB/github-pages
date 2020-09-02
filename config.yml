@@ -7,8 +7,8 @@ tags:
   - GitHub
   - GitHub Pages
 template:
-  name: github-pages-with-jekyll
-  repo: github-pages-with-jekyll-template
+  name: github-pages
+  repo: github-pages-plantilla
 preferences:
   - type: dropdown
     name: language
