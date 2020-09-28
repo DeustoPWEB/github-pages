@@ -60,7 +60,7 @@ steps:
         data:
           branch: '%payload.pull_request.head.ref%'
       - type: closeIssue
-        issue: Welcome
+        issue: Bienvenida
   - title: Merge your pull request
     description: Merge the pull request that customizes your homepage.
     translations:
