@@ -12,10 +12,16 @@ Este pull request pinta muy bien. :sparkles: ¡Acabas de editar el archivo `_con
 1. En VS Code, abre la Paleta de Comandos (o _Command Palette_) usando <kbd>Ctrl+Mayús+P</kbd> en Windows, o <kbd>Command ⌘+Mayús+P</kbd> en macOS. También puedes seguir [la documentación oficial de VS Code](https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository) sobre clonar repositorios.
 1. Escribe `git clone`y presiona <kbd>Enter</kbd>
       ![una captura de pantalla de VS Code con la Paleta de Comandos abierta](https://user-images.githubusercontent.com/16547949/53639288-bcf9ec80-3bf6-11e9-9d18-d97167168248.png)
-1. Pega la URL del repositorio en la nueva ventana y presiona <kbd>Enter</kbd>:
-      ```shell
+1. Pega la URL del repositorio en la nueva ventana (recuerda sustituir por tu nombre de usuario en GitHub) y presiona <kbd>Enter</kbd>:
+
+     <!-- ```shell
       {{ thePayload.repository.clone_url }}
+      ```-->
+
+      ```shell
+      https://github.com/TU-NOMBRE-DE-USUARIO/github-pages.git
       ```
+
 1. Selecciona la ubicación en el que quieres guardar el repositorio y haz clic en **Choose folder**. Después, abre la ubicación que seleccionaste (haciendo clic en **Open**).  
 2. El directorio del repositorio debería estar ahora abierto en tu proyecto de VS Code. Haz clic en `master` en la parte inferior de la ventana de VS Code. Esto abrirá la Paleta de Comandos con todos los comandos relacionados a ramas de Git. 
       ![una captura de pantalla de las ramas de Git en VS Code](https://user-images.githubusercontent.com/16547949/53639606-adc76e80-3bf7-11e9-98ac-bd41ae2b40db.png)
