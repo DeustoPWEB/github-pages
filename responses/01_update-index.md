@@ -17,4 +17,4 @@ Tu repositorio tiene un archivo `index.md`, así que podemos actualizarlo para q
 > Una vez que has creado el pull request, me desplazaré hasta allí para hablar de los próximos pasos.
 
 <hr>
-<h3 align="center">Busca mi respuesta en tu _pull request_.</h3>
+<h3 align="center">Busca mi respuesta en tu <em>pull request</em>.</h3>
