@@ -1,29 +1,28 @@
-## Checking your front matter
+## Comprobando tu texto preliminar
 
-It looks like there may be some errors in your front matter. Take a look at your front matter and make sure the following is true:
+Parece que podría haber algunos errores en tu texto preliminar. Echa un ojo a tu texto preliminar para asegurarte de que cumple estas condiciones:
 
-- [{% if dashes %}x{% else %} {% endif %}] You used dashes on the first and final line
-- [{% if title %}x{% else %} {% endif %}] You added a page title surrounded in quotes
-- [{% if date %}x{% else %} {% endif %}] You added a date using the correct format
+- [{% if dashes %}x{% else %} {% endif %}] Has utilizado guiones en la primera y la última línea de tu texto preliminar
+- [{% if title %}x{% else %} {% endif %}] Has añadido el título del post entre comillas
+- [{% if date %}x{% else %} {% endif %}] Has añadido la fecha utilizando el formato correcto
 
-The YAML front matter should be at the top of your blog post file and should look something like this:
+El texto preliminar YAML debería estar en la parte superior de tu archivo y tener este aspecto:
 
 ```yaml
 ---
-title: "Your blog post title"
-date: YYYY-MM-DD
+title: "El título de tu post"
+date: AAAA-MM-DD
 ---
 ```
 
-### :keyboard: Activity: Edit your blog post
+### :keyboard: Actividad: Edita tu post
 
-1. Click the "Files Changed" tab in this pull request.
-1. Scroll past the config file, and find the file that you created.
-1. Click on the pencil icon on the right side of the screen.
-1. Make adjustments based on the above errors.
-1. Scroll to the bottom, and commit your changes.
+1. Haz clic en la pestaña "Files Changed" de este pull request.
+1. Haz scroll hasta pasar el archivo de configuración, y localiza el archivo que has creado.
+1. Haz clic en el icono del lápiz en la parte derecha de la pantalla.
+1. Realiza los ajustes necesarios basándote en los errores mencionados arriba.
+1. Haz scroll hasta la parte de abajo, y haz commit de tus cambios.
 
-If you would like assistance troubleshooting the issue you are encountering, create a post on the [GitHub Community]({{ communityBoard }}) board. You might also want to search for your issue to see if other people have resolved it in the past.
+Si necesitas ayuda resolviendo el problema que estás encontrando, crea un post en el tablero de [GitHub Community]({{ communityBoard }}). Puede que también quieras buscar tu problema para ver si otras personas lo han resuelto en el pasado.
 
-<hr>
-<h3 align="center">Watch below for my response.</h3>
+<hr><h3 align="center">Mira mi respuesta más abajo.</h3>

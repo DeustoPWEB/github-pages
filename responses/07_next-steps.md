@@ -1,19 +1,18 @@
-## Nice work
+## Gran trabajo
 
 ![celebrate](https://octodex.github.com/images/constructocat2.jpg)
 
-Congratulations @{{ user.username }}, you've completed this course!
+Enhorabuena @{{ user.username }}, ¡has completado el curso!
 
-Your blog is now live and has been deployed [here]({{ deploymentUrl }})!
+¡Tu blog está ahora publicado y se ha implementado [aquí]({{ deploymentUrl }})!
 
-Before we finish, let's recap everything you completed in this repository
+Antes de que terminemos, hagamos un repaso de todo lo que has hecho en este repositorio
 
-- You used the GitHub Flow like a natural
-- You enabled GitHub Pages
-- You selected a theme using the config file
-- You learned about proper directory format and file naming conventions in Jekyll
-- You added and modified Jekyll front matter
+- Has utilizado el GitHub Flow como si llevaras haciéndolo toda la vida
+- Has activado GitHub Pages
+- Has seleccionado un tema utilizado el archivo de configuración
+- Has aprendido acerca del formato correcto de directorios y convenciones para los nombres de archivos en Jekyll
+- Has añadido y modificado texto preliminar de Jekyll
 
-
-## What's next?
-There's so much more you can do with GitHub Pages, and you have a solid start. Now...[what will you learn next]({{ host }}/courses)?
+## ¿Y ahora?
+Hay muchas cosas más que puedes hacer con GitHub Pages, y has empezado con buen pie. Ahora... ¿[qué será lo siguiente que aprendas]({{ host }}/courses)?

@@ -1,31 +1,31 @@
-## Step 1: Enable GitHub Pages
+## Paso 1: Activa GitHub Pages
 
-Welcome to GitHub Pages and Jekyll :tada:!
+¡Bienvenida a GitHub Pages y Jekyll! :tada:
 
-If you're new to GitHub Pages, or you want to learn how to build and host a [GitHub Pages](https://pages.github.com) site, you're in the right place. With GitHub Pages, you can host content like [documentation](https://flight-manual.atom.io/), [resumes](https://github.com/jglovier/resume-template), or any other static content that you’d like.
+Si es la primera vez que usas GitHub Pages o quieres aprender cómo crear y alojar un sitio web con [GitHub Pages](https://pages.github.com), estás en el lugar adecuado. Con GitHub Pages, puedes alojar contenidos como [documentación](https://flight-manual.atom.io/), [currículums](https://github.com/jglovier/resume-template) o cualquier otro contenido estático que quieras. 
 
-In this course, you'll create a blog hosted on GitHub Pages and learn how to:
+En este curso crearás un blog alojado en GitHub Pages y aprenderas a:
 
-- Enable GitHub Pages
-- Use [Jekyll](https://jekyllrb.com/), a static site generator
-- Customize Jekyll sites with a theme and content
+- Activar GitHub Pages
+- Usar [Jekyll](https://jekyllrb.com/), un generador de sitios estáticos
+- Personalizar el aspecto y contenido de sitios creados con Jekyll
 
-### New to GitHub?
+### ¿GitHub es nuevo para ti?
 
-For this course, you'll need to know how to create a branch on GitHub, commit changes using Git, and open a pull request on GitHub. If you need a refresher on the GitHub flow, check out the [Introduction to GitHub course]({{ host }}/courses/introduction-to-github).
+Para este curso necesitas saber cómo crear una rama (_branch_) en GitHub, confirmar cambios (_commit_) usando Git, y abrir peticiones de extracción (_pull requests_) en GitHub. Si necesitas un recordatorio del flujo de trabajo en GitHub, revisa el [curso de Introducción a GitHub]({{ host }}/courses/introduction-to-github).
 
-### :keyboard: Activity: Generate a GitHub Pages site
+### :keyboard: Actividad: Genera un sitio web con GitHub Pages
 
-The first step to publishing your blog to the web is to enable GitHub Pages on this repository <sup>[:book:](https://help.github.com/articles/github-glossary/#repository)</sup>. When you enable GitHub Pages on a repository, GitHub takes the content that's on the master branch and publishes a website based on its contents.
+El primer paso para publicar tu blog en la web es activar GitHub Pages en este repositorio <sup>[:book:](https://help.github.com/articles/github-glossary/#repository)</sup>. Cuando habilitas GitHub Pages para un repositorio, GitHub toma el contenido que tenga en el branc `master` y publica un sitio web basado en esos contenidos.
 
-1. Under your repository name, click [**Settings**]({{ repoUrl }}/settings).
-1. In the "GitHub Pages" section, in the Source drop-down, select **master branch**.
+1. Debajo del nombre de tu repositorio, haz clic en [**Settings**]({{ repoUrl }}/settings) (Ajustes).
+1. En la sección "GitHub Pages", en el desplegable Source, selecciona **master branch**.
 
-After GitHub Pages is enabled and the site is started, we'll be ready to create some more content. 
+Una vez que GitHub Pages se ha activado y se ha iniciado el sitio web, estaremos listos para crear algún contenido más. 
 
-> Turning on GitHub Pages creates a deployment of your repository. I may take up to a minute to respond as I await the deployment.
+> Activar GitHub Pages crea una implementación de tu repositorio. Puede llevarme hasta un minuto contestar mientras espero a la implementación.
 
 <hr>
-<h3 align="center">Return to this issue for my next comment.</h3>
+<h3 align="center">Vuelve a esta propuesta _(issue)_ para mi siguiente comentario.</h3>
 
-> _Sometimes I respond too fast for the page to update! If you perform an expected action and don't see a response from me, wait a few seconds and refresh the page for your next steps._
+> _A veces respondo demasiado rápido para que la página se actualice por sí misma. Si realizas alguna acción prevista y no ves una respuesta por mi parte, espera unos segundos y refresca la página para ver tus siguientes pasos._

@@ -1,17 +1,17 @@
-It looks like you changed your theme, but for this activity we want to use `minima`.
+Parece que has cambiado el tema del sitio, pero para esta actividad queremos usar `minima`.
 
-### :keyboard: Activity: Change the theme to minima
+### :keyboard: Actividad: Cambia el tema a minima
 
-Let's change the theme to `minima`:
+Vamos a cambiar el tema a `minima`:
 
-1. At the top of this Pull Request, click the **Files changed** tab.
-2. Click the icon to enter edit mode and change the  `theme:` to **minima**.
-3. Scroll to the bottom of the window to create a commit.
-4. Enter a commit message then click **Commit changes**.
+1. En la parte superior de este pull request, haz clic en la pestaña **Files changed**.
+2. Haz clic en el icono para entrar en el modo de edición y cambia el `theme:` a **minima**.
+3. Haz scroll hasta la parte de abajo de la página para crear un commit.
+4. Introduce un mensaje de commit y haz clic en **Commit changes**.
 
-> Don't worry, if you don't like this theme you can always change it later.
+> No te preocupes, si no te gusta este tema siempre puedes cambiarlo más adelante.
 
-If you would like assistance troubleshooting the issue you are encountering, create a post on the [GitHub Community]({{ communityBoard }}) board. You might also want to search for your issue to see if other people have resolved it in the past.
+Si necesitas ayuda resolviendo el problema que estás encontrando, crea un post en el tablero de [GitHub Community]({{ communityBoard }}). Puede que también quieras buscar tu problema para ver si otras personas lo han resuelto en el pasado.
 
 <hr>
-<h3 align="center">Watch below for my next comment.</h3>
+<h3 align="center">Mira mi respuesta más abajo.</h3>

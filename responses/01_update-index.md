@@ -1,22 +1,20 @@
-## Step 2: Customize your homepage
+## Paso 2: Personaliza tu página inicial
 
-Great job! Now that GitHub Pages is enabled, you can view your website here: {{ deploymentUrl }}
+¡Buen trabajo! Ahora que GitHub Pages está activado, puedes ver tu sitio web aquí: {{ deploymentUrl }}
 
-You can customize your homepage by adding content to either an `index` file or the `README.md` file. GitHub Pages first looks for an `index` file. If an `index` file is found, GitHub Pages uses the content in the file to create the homepage. If an `index` file isn’t found, it uses the `README.md` to create the homepage.
+Puedes personalizar tu página inicial añadiendo contenido bien a un archivo `index`  o al archivo `README.md`. GitHub Pages buscará primero un archivo `index`. Si encuentra un archivo `index`, GitHub Pages utiliza el contenido en ese archivo para crear la página inicial. Si no encuentra un archivo `index`, utiliza `REAMDE.md` para crear la página inicial.
 
-Your repository has an `index.md` file so we can update it to include your personalized content.
+Tu repositorio tiene un archivo `index.md`, así que podemos actualizarlo para que incluya tu contenido personalizado.
 
-### :keyboard: Activity: Create your homepage
+### :keyboard: Actividad: Crea tu página inicial
 
-1. Navigate to the **Code** tab of this repository, and browse to the `index.md` file, or click this link [here]({{ repoUrl }}/blob/master/index.md)
-2. In the upper right corner, click the ![octicon-pencil] icon to edit the `index.md` file
-3. Type the content you want on your homepage
-4. Scroll to the bottom, type a commit message, and click **Create a new branch for this commit and start a pull request**
-5. Open a pull request
+1. Navega a la pestaña **Code** de este repositorio y accede al archivo `index.md`, o haz clic en [este enlace]({{ repoUrl }}/blob/master/index.md)
+2. En la esquina superior derecha, haz clic en el icono a la derecha del archivo para editar el archivo `index.md` 
+3. Escribe el contenido que quieres que aparezca en tu página principal
+4. Haz scroll hasta la parte inferior, escribe un mensaje de commit y haz clic en **Create a new branch for this commit and start a pull request**
+5. Abre una petición de extracción (pull request)
 
-> Once you have created your pull request, I will move over there to discuss next steps.
+> Una vez que has creado el pull request, me desplazaré hasta allí para hablar de los próximos pasos.
 
 <hr>
-<h3 align="center">Look for my next response in your pull request.</h3>
-
-[octicon-pencil]: https://unpkg.com/octicons/build/svg/pencil.svg
+<h3 align="center">Busca mi respuesta en tu pull request.</h3>

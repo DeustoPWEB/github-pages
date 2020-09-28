@@ -1,7 +1,7 @@
 title: GitHub Pages
 tagline: Your sidekick in using GitHub Pages and blogs
 description: >-
-  Learn how to create a site or blog from your GitHub repositories with GitHub
+  Aprende a crear sitios o blogs a partir de tus repositorios GitHub con GitHub
   Pages.
 tags:
   - GitHub
@@ -9,22 +9,12 @@ tags:
 template:
   name: github-pages
   repo: github-pages-plantilla
-preferences:
-  - type: dropdown
-    name: language
-    label: Language
-    description: Choose your preferred language.
-    options:
-      - label: English
-        value: en
-      - label: Español
-        value: es
 before:
   - type: createIssue
-    title: Welcome
+    title: Bienvenida
     body: 00_class-introduction-issue.md
 steps:
-  - title: Generate a GitHub Pages site
+  - title: Genera un sitio con GitHub Pages
     description: Generate a GitHub Pages site with the automatic page generator.
     translations:
       es:

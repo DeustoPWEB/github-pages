@@ -1,22 +1,22 @@
-## Step 5: Create a blog post
+## Paso 5: Crea un post en tu blog
 
-:warning: Do not merge yet! :warning:
+:warning: ¡No hagas merge todavía! :warning:
 
-This pull request looks great so far. :sparkles: You've just edited the `_config.yml` file! We have some more work to do to create your blog site. You can continue to make commits on your `{{ branch }}` branch and the pull request will update automatically.
+Este pull request pinta muy bien. :sparkles: ¡Acabas de editar el archivo `_config.yml`! Tenemos algo más de trabajo para crear tu blog. Puedes seguir haciendo commits en tu rama `{{ branch }}` y el pull request se actualizará automáticamente.
 
-### :keyboard: Activity: Add some content to your blog
+### :keyboard: Actividad: Añade algo de contenido a tu blog
 
-**Shortcut Note**: Click [this link]({{ repoUrl }}/new/{{ branch }}/?filename=_posts/{{ date | date: "%Y-%m-%d" }}-my-first-blog-post.md) to automatically complete steps 1-4.
+**Nota de atajo**: Haz clic en [este enlace]({{ repoUrl }}/new/{{ branch }}/?filename=_posts/{{ date | date: "%Y-%m-%d" }}-my-first-blog-post.md) para completar automáticamente los pasos 1-4.
 
-1. On the "Code" tab, select your `{{ branch }}` branch.
-1. Click **Create new file**.
-1. Name the file `_posts/YYYY-MM-DD-title.md`.
-1. Replace the `YYYY-MM-DD` with today's date, and change the `title` of your first blog post if you'd like. _Note:_ If you do edit the title, make sure there are hyphens between your words.
+1. En la pestaña "Code", selecciona tu rama `{{ branch }}`.
+1. Haz clic en **Create new file** (crear un archivo nuevo).
+1. Nombra el archivo `_posts/AAAA-MM-DD-titulo.md`.
+1. Reemplaza `AAAA-MM-DD` con la fecha de hoy, y cambia también el `titulo` de tu primer post si quieres. _Nota:_ Si cambias el título, asegúrate de utilizar guiones en lugar de espacios.
 
-   - If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information, see "[Page build failed: Invalid post date](https://help.github.com/articles/page-build-failed-invalid-post-date/)".
+   - Si la fecha de tu post no sigue la convención de fechas correcta, recibirás un error y tu sitio no se construirá. Para más información, puedes acceder a "[Page build failed: Invalid post date](https://help.github.com/articles/page-build-failed-invalid-post-date/)".
 
-1. Type a quick draft of your blog post. Remember, you can always edit it later.
-1. Commit your changes to your branch.
+1. Escribe un borrador rápido de tu primer post. Recuerda, siempre puedes editarlo después.
+1. Haz commit de tus cambios a tu rama.
 
 <hr>
-<h3 align="center">Watch below for my response.</h3>
+<h3 align="center">Mira mi respuesta más abajo.</h3>

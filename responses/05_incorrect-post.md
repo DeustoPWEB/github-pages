@@ -1,23 +1,24 @@
-## Checking your post
+## Comprobando tu post
 
-@{{ user.username }} I see you created a file, but there are a few things we need to address!
+@{{ user.username }} veo que has creado un archivo, pero ¡hay algunas cosas que tienes que resolver!
 
-Take a look at your file and make sure it meets the following requirements:
+Echa un vistazo a tu archivo y asegúrate de que cumple los siguientes requerimientos:
 
-- [{% if directory %}x{% else %} {%endif%}] It is in the `_posts` directory
-- [{% if filenumber %}x{% else %} {%endif%}] The filename starts with the correct date formatting: YYYY-MM-DD
-- [{% if post %}x{% else %} {%endif%}] The filename includes a post title
-- [{% if extension %}x{% else %} {%endif%}] The filename uses the `.md` extension
-- [{% if filename %}x{% else %} {%endif%}] The filename follows Jekyll's [specific filename requirements](https://jekyllrb.com/docs/posts/#creating-post-files).
+- [{% if directory %}x{% else %} {%endif%}] Está en el directorio `_posts` 
+- [{% if filenumber %}x{% else %} {%endif%}] El nombre del archivo empieza con el formato correcto para la fecha: AAAA-MM-DD
+- [{% if post %}x{% else %} {%endif%}] El nombre del archivo incluye un título de post
+- [{% if extension %}x{% else %} {%endif%}] El nombre del archivo incluye la extensión `.md`
+- [{% if filename %}x{% else %} {%endif%}] El nombre del archivo cumple con los [requerimientos específicos para nombres de archivo](https://jekyllrb.com/docs/posts/#creating-post-files) de Jekyll.
 
-### :keyboard: Activity: Edit your file
+### :keyboard: Actividad: Edita tu archivo
 
-1. Click the "Files Changed" tab in this pull request.
-1. Click on the pencil icon on the right side of the screen.
-1. Make adjustments based on the above errors.
-1. Scroll to the bottom, and commit your changes.
+1. Haz clic en la pestaña "Files Changed" en este pull request.
+1. Haz clic en el icono del lápiz en el lado derecho de la pantalla.
+1. Realiza los ajustes necesarios basándote en los errores mencionados arriba.
+1. Haz scroll hasta la parte de abajo, y haz commit de tus cambios.
 
-If you would like assistance troubleshooting the issue you are encountering, create a post on the [GitHub Community]({{ communityBoard }}) board. You might also want to search for your issue to see if other people have resolved it in the past.
+
+Si necesitas ayuda resolviendo el problema que estás encontrando, crea un post en el tablero de [GitHub Community]({{ communityBoard }}). Puede que también quieras buscar tu problema para ver si otras personas lo han resuelto en el pasado.
 
 <hr>
-<h3 align="center">Watch below for my response.</h3>
+<h3 align="center">Mira mi respuesta más abajo.</h3>

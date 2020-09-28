@@ -1,31 +1,31 @@
-## Step 6: Add blog post metadata
+## Paso 6: Añade metadatos del post
 
-Now that you've created your Jekyll blog post file, we can add syntax to it. The syntax Jekyll files use is called YAML front matter. It goes at the top of your file and looks something like this:
+Ahora que has creado tu archivo con el post para un blog en Jekyll, podemos añadir algo de sintaxis. La sintaxis que usan los archivos de Jekyll se llama texto preliminar YAML. Va en la parte superior de tu archivo y tiene este aspecto:
 
 ```yml
 ---
-title: "Welcome to my blog"
+title: "Bienvenida a mi blog"
 date: 2019-01-20
 ---
 ```
 
-This example adds a title and date to your blog post. There are other useful things you could add here in the future like layouts, categories, or any other logic that is useful to you. For more information about configuring front matter, see the [Jekyll front matter documentation](https://jekyllrb.com/docs/frontmatter/).
+Este ejemplo añade un título y una fecha a tu post. Hay otras cosas útiles que puedes añadir aquí en el futuro como plantillas, categorías o cualquier otra lógica que te resulte útil. Para más información sobre la configuración del texto preliminar, puedes consultar [Jekyll front matter documentation](https://jekyllrb.com/docs/frontmatter/).
 
-### :keyboard: Activity: Add Front Matter to your Blog Post
+### :keyboard: Actividad: Añade texto preliminar a tu post
 
-1. Click the "Files Changed" tab in this pull request.
-1. There are two files in the "Files Changed" tab, the `_config.yml` file and the `_posts/YYYY-MM-DD-title.md` file. Make sure to edit the file in the `_posts` folder. 
-2. Click on the icon to edit on the right side of the screen.
-3. Type the following content at the top of your blog post:
+1. Haz clic en la pestaña "Files Changed" de este pull request.
+1. Hay dos archivos en la pestaña "Files Changed", el archivo `_config.yml` y el archivo `_posts/YYYY-MM-DD-title.md`. Asegúrate de editar el archivo que hay en la carpeta `_posts`. 
+2. Haz clic en el icono de la parte derecha para editar.
+3. Escribe lo siguiente en la parte superior de tu post:
 
        ---
-       title: "YOUR-TITLE"
-       date: YYYY-MM-DD
+       title: "TU TÍTULO"
+       date: AAAA-MM-DD
        ---
 
-4. Replace YOUR-TITLE with the title for your blog post.
-5. Replace YYYY-MM-DD with today's date.
-6. Commit your changes to your branch.
+4. Reemplaza TU TÍTULO con el título para tu post.
+5. Reemplaza AAAA-MM-DD con la fecha de hoy.
+6. Haz commit de tus cambios en tu rama.
 
 <hr>
-<h3 align="center">Watch below for my response.</h3>
+<h3 align="center">Mira mi respuesta más abajo.</h3>

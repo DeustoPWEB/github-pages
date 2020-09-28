@@ -1,26 +1,28 @@
-## Step 4: Customize Site Details
+## Paso 4: Personaliza los detalles del sitio
 
-Great work! You can see your published page [here]({{ deploymentUrl }}). If you don't see your changes right away, refresh the page.
+¡Buen trabajo! Puedes ver tu sitio publicado [aquí]({{ deploymentUrl }}). Si no ves tus cambios inmediatamente, refresca la página.
 
-### Getting your page blog ready
+### Preparar tu página para usarla como blog
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, a your theme and reusable content like your site title and GitHub handle.
+Jekyll utiliza un archivo llamado `_config.yml` para almacenar los ajustes de tu sitio web, la plantilla o el tema del sitio y contenido reutilizable como el título de tu sitio y tu nombre de usuario de GitHub.
 
-You can check out the `_config.yml` file on the **Code** tab of your repository.
+Puedes comprobar el archivo `_config.yml` en la pestaña **Code** de tu repositorio.
 
-### :keyboard: Activity: Modify the config file
+### :keyboard: Actividad: Modifica el archivo de configuración
 
-Let's change the `_config.yml` so it's a perfect fit for your new blog. First, we need to use a blog-ready theme. For this activity, we will use a theme named `minima`.
+Vamos a modificar `_config.yml` para que refleje perfectamente con tu nuevo blog. Primero, tenemos que aplicar una plantilla o tema que funcione con blogs. Para esta actividad, usaremos un tema llamado `minima`.
 
-1. Navigate to the **Code** tab of this repository, and browse to the `_config.yml` file, or click this link [here]({{ repoUrl }}/blob/master/_config.yml).
-2. In the upper right corner, click :pencil2: to open the file editor.
-3. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
+
+
+1. Navega a la pestaña **Code** de este repositorio y hasta el archivo `_config.yml`, o haz clic en [este enlace]({{ repoUrl }}/blob/master/_config.yml).
+2. En la esquina superior derecha, haz clic en :pencil2: para abrir el editor.
+3. Añade un `theme:` que especifique **minima**, de forma que se vea así en tu archivo `_config.yml`:
     ```
     theme: minima
     ```
-4. Modify the other configuration variables such as `title:`, `author:`, and `description:` to customize your site.
-5. Click **Create a new branch for this commit and start a pull request**.
-6. Open a pull request.
+4. Modifica las otras variables de configuración, como `title:`, `author:` y `description:`, para personalizar tu sitio web.
+5. Haz clic en **Create a new branch for this commit and start a pull request**.
+6. Abre un pull request.
 
 <hr>
-<h3 align="center">Look for my next response in your pull request.</h3>
+<h3 align="center">Busca mi siguiente respuesta en tu pull request.</h3>
