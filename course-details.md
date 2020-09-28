@@ -1,38 +1,38 @@
-Did you know you can host your personal, organization, and project sites on GitHub? With GitHub Pages, you can quickly create a site from your GitHub repositories—a great way to share static content related to your repository like resumes, portfolios, and project blogs. 
+¿Sabías que puedes alojar tus sitios web personales, los de tu organización o los de tus proyectos en GitHub? Con GitHub Pages puedes crear rápidamente un sitio web a partir de tus repositorios&mdash;una manera estupenda de compartir contenidos relacionados con tus repositorios como CVs, portafolios o blogs de proyectos.
 
-If you're new to GitHub Pages, or you want to learn how to build and host a GitHub Pages site, you're in the right place. With GitHub Pages, you can host content like documentation, resumes, or any other static content that you’d like.
+Si es la primera vez que usas GitHub Pages, o quieres aprender cómo construir y alojar un sitio en GitHub Pages, estás en el lugar correcto. Con GitHub Pages puedes alojar contenidos como documentación, CVs o cualquier otro contenido estático que quieras.
 
-## What you'll learn
+## Qué aprenderás
 
-In this course, you’ll learn how to:
+En este curso aprenderas a:
 
-- Enable GitHub Pages
-- Choose a theme with Jekyll
-- Use YAML front matter
-- Customize your site
-- Create and edit blog posts
+- Activar GitHub Pages
+- Elegir un tema con Jekyll
+- Usar las cabeceras YAML
+- Personalizar tu sitio
+- Crear y editar publicaciones de blogs
 
-You'll know the answers to questions like:
+Sabrás la respuesta a preguntas como:
 
-- What is GitHub pages?
-- How do I make sites with GitHub Pages?
-- How do I create my own blog?
+- ¿Qué es GitHub Pages?
+- ¿Cómo puedo crear sitios web con GitHub Pages?
+- ¿Cómo puedo crear mi propio blog?
 
-## What you'll build
+## Qué vas a construir
 
-In this course, you'll build a simple personal blog site with GitHub Pages. You'll be able to add posts and share your blog with anyone.
+En este curso construirás un blog personal sencillo con GitHub Pages. Serás capaz de añadir publicaciones y compartir tu blog con quien quieras.
 
 ![Screenshot_2020-02-25 Welcome to my blog](https://user-images.githubusercontent.com/1221423/75267083-224fd180-57a8-11ea-8acf-64c1ee6d950f.png)
 
-## Prerequisites
+## Prerrequisitos
 
-For this course, you'll need to know how to create a branch on GitHub, commit changes using Git, and open a pull request on GitHub. If you need a refresher on the GitHub flow, check out the [Introduction to GitHub course](https://lab.github.com/githubtraining/introduction-to-github). We'll assume you know what [blogs](https://en.wikipedia.org/wiki/Blog) are and how they work.
+Para poder realizar este curso necesitas saber cómo crear una rama en GitHub, confirmar cambios usando git, y abrir solicitudes de extracción \(_pull requests_\) en GitHub. Si necesitas un recordatorio del flujo de trabajo de GitHub, comprueba el [curso Introducción a GitHub](https://lab.github.com/DeustoPWEB/introduccion-a-github). Vamos a asumir que sabes lo que son los [blogs](https://en.wikipedia.org/wiki/Blog) y cómo funcionan.
 
-## Projects used
+## Proyectos usados
 
-- [Jekyll](https://jekyllrb.com), a static site generator
-- [Jekyll minima theme](https://github.com/jekyll/minima), a one-size-fits-all Jekyll theme for writers
+- [Jekyll](https://jekyllrb.com), un generador de sitios estáticos
+- [Jekyll minima theme](https://github.com/jekyll/minima), un tema Jekyll multiusos para escritores
 
-## Audience
+## Audiencia
 
-This is a great beginner course. If you're wanting to run your own blog, personal site, project site, or portfolio, this is the best course for you. This is a wonderful course for students, project maintainers, and small businesses.
+Este es un curso estupendo para novatos. Si quieres poner en marcha tu propio blog, sitio personal, sitio de proyecto o portafolio, éste es el mejor curso para ti. Es un curso genial para estudiantes, administradores de proyectos y pequeños negocios.

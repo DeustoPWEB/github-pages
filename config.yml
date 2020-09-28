@@ -18,7 +18,7 @@ preferences:
     - label: Usa Visual Studio Code
       value: vscode
       selected: true
-    - label: Use the GitHub.com web interface
+    - label: Usa la interfaz web de GitHub.com
       value: dotcom
 before:
   - type: createIssue
