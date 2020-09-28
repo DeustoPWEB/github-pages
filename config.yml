@@ -9,6 +9,17 @@ tags:
 template:
   name: github-pages
   repo: github-pages-plantilla
+preferences:
+  - type: radio
+    name: gitTool
+    label: Herramienta Git preferida
+    description: Aprende directamente desde la interfaz web, o utiliza tu herramienta preferida
+    options:
+    - label: Usa Visual Studio Code
+      value: vscode
+      selected: true
+    - label: Use the GitHub.com web interface
+      value: dotcom
 before:
   - type: createIssue
     title: Bienvenida
